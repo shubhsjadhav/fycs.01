@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+<title> First Page </title>
+</head bgcolor="green" text="red">
+<h1>'My first Web Page'</h1>
+<hr>
+<b> Name </b><br><br>
+<i>Address</i><br><br>
+<u>Std=11<sup>th</sup></u>
+</body>
+</html>
